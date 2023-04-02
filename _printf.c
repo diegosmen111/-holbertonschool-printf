@@ -1,7 +1,11 @@
 /*
  * File: _printf.c
  * Auth: Diego Alvarado
+<<<<<<< HEAD
  *       
+=======
+ *
+>>>>>>> 80a59d9a1b1d1c87e5087934a20ff03d8e971d10
  */
 
 #include "main.h"
