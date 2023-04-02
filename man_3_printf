@@ -60,7 +60,7 @@ The command "gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c" should be used
 The main.c file should be in the same directory as _printf and its other supporting functions
 before compiling. The example is as follows;
   
-alex@ubuntu:~/c/printf$ cat main.c
+diego@ubuntu:~/c/printf$ cat main.c
 #include <limits.h>
 #include <stdio.h>
 #include "main.h"
@@ -95,8 +95,8 @@ int main(void)
 	return (0);
 }
 
-alex@ubuntu:~/c/printf$ gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
-alex@ubuntu:~/c/printf$ ./printf
+diego@ubuntu:~/c/printf$ gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+diego@ubuntu:~/c/printf$ ./printf
 Let's try to printf a simple sentence.
 Let's try to printf a simple sentence.
 Length:[39, 39]
