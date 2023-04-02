@@ -1,7 +1,7 @@
 /*
  * File: _printf.c
  * Auth: Diego Alvarado
- *       Josue Cerron
+ *
  */
 
 #include "main.h"
